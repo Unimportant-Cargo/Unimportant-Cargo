@@ -1,5 +1,5 @@
 - Hi, I’m @Unimportant-Cargo
-- I’m interested in cybersecurity, full-stack development, and AI-powered commerce
+- I’m interested in full-stack development and AI-powered commerce
 -  I’m currently learning Python and JS
 
 
